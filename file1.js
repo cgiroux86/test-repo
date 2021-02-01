@@ -1,1 +1,1 @@
-const str = 'This is a test string!'
+const str1 = 'This is a test string!'
