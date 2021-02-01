@@ -1,1 +1,0 @@
-const str = 'This is a test str!'
